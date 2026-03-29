@@ -1,0 +1,30 @@
+# SmartCity Ride Analytics Dashboard
+
+## Project Overview
+This project analyzes ride-hailing service data to evaluate demand patterns, revenue trends, customer satisfaction, and complaint behaviour.
+
+## Tools Used
+- Power BI
+- Data Analysis
+- Dashboard Reporting
+
+## Key Areas Analysed
+- Ride demand across time slots
+- Revenue by vehicle type and payment method
+- Customer satisfaction trends
+- Complaint patterns by time and zone
+
+## Key Insights
+- Morning and evening time slots show the highest ride demand
+- Luxury vehicles generate the highest revenue per ride
+- Clear weather contributes to stronger ride activity and revenue
+- Complaints increase more during high-demand periods and surge pricing
+
+## Recommendations
+- Improve fleet allocation during peak hours
+- Maintain balanced surge pricing
+- Focus on service quality in high-complaint zones
+- Keep a balanced mix of vehicle types
+
+## Outcome
+This project demonstrates my ability to transform raw operational data into business insights and actionable recommendations.
